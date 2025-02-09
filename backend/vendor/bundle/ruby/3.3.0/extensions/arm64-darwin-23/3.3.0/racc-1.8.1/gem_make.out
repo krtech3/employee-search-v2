@@ -1,0 +1,18 @@
+current directory: /Users/krtech/projects/employee-search-v2/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/krtech/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/krtech/projects/employee-search-v2/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250209-94594-c0yc3x sitelibdir\=./.gem.20250209-94594-c0yc3x clean
+
+current directory: /Users/krtech/projects/employee-search-v2/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250209-94594-c0yc3x sitelibdir\=./.gem.20250209-94594-c0yc3x
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/krtech/projects/employee-search-v2/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250209-94594-c0yc3x sitelibdir\=./.gem.20250209-94594-c0yc3x install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20250209-94594-c0yc3x/racc
+
+current directory: /Users/krtech/projects/employee-search-v2/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250209-94594-c0yc3x sitelibdir\=./.gem.20250209-94594-c0yc3x clean
